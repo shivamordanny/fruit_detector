@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>flag_detection</folder>
+	<filename>f3.jpg</filename>
+	<path>/home/shivam/Documents/Imaging/flag_detection/f3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>12</ymin>
+			<xmax>123</xmax>
+			<ymax>32</ymax>
+		</bndbox>
+	</object>
+</annotation>

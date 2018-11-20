@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>flag_detection</folder>
+	<filename>f6.jpg</filename>
+	<path>/home/shivam/Documents/Imaging/flag_detection/f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>25</ymin>
+			<xmax>98</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

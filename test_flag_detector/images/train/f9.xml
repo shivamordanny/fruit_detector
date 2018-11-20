@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>flag_detection</folder>
+	<filename>f9.jpg</filename>
+	<path>/home/shivam/Documents/Imaging/flag_detection/f9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>83</ymin>
+			<xmax>700</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
